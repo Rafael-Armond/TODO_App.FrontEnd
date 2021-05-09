@@ -1,4 +1,4 @@
-import 'package:Todo_App/views/cadastro/cadastro_view.dart';
+import 'package:Todo_App/views/cadastro/dados_pessoais_view.dart';
 import 'package:Todo_App/views/home/todos_view.dart';
 import 'package:Todo_App/views/shared/custom_button.dart';
 import 'package:Todo_App/views/shared/custom_text_form_field.dart';
